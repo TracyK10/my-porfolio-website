@@ -112,7 +112,7 @@ h2{
 
 .projects{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     gap: 3rem;
 }
 
@@ -143,4 +143,28 @@ section{
 
 h3{
     text-decoration: underline;
+}
+
+.passenger-counter{
+    background-color: #fbf2c4;
+    border-radius: 20px;
+    padding: 1em;
+}
+
+.game {
+    background-color: #fbf2c4;
+    border-radius: 20px;
+    padding: 1em;
+}
+
+.landing-page{
+    background-color: #fbf2c4;
+    border-radius: 20px;
+    padding: 1em;
+}
+
+.hospital-api{
+    background-color: #fbf2c4;
+    border-radius: 20px;
+    padding: 1em;
 }
