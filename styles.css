@@ -149,22 +149,30 @@ h3{
     background-color: #fbf2c4;
     border-radius: 20px;
     padding: 1em;
+    box-shadow: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
+                0.125em 0.125em 0.25em rgba(0,0,0,.15);
 }
 
 .game {
     background-color: #fbf2c4;
     border-radius: 20px;
     padding: 1em;
+    box-shadow: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
+                0.125em 0.125em 0.25em rgba(0,0,0,.15);
 }
 
 .landing-page{
     background-color: #fbf2c4;
     border-radius: 20px;
     padding: 1em;
+    box-shadow: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
+                0.125em 0.125em 0.25em rgba(0,0,0,.15);
 }
 
 .hospital-api{
     background-color: #fbf2c4;
     border-radius: 20px;
     padding: 1em;
+    box-shadow: 0.25em 0.25em 0.75em rgba(0,0,0,.25),
+                0.125em 0.125em 0.25em rgba(0,0,0,.15);
 }
