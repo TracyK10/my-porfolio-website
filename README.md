@@ -7,4 +7,4 @@ The portfolio webpage crafted serves as a showcase for myself, a proficient soft
 ![Portfolio website](<images/Screenshot from 2024-03-17 16-04-35.png>)
 
 ## Website
-If you would like to visit the website, click [here](tracyk10.github.io/my-porfolio-website/)!
+If you would like to visit the website, click [here](https://tracyk10.github.io/my-porfolio-website/)
